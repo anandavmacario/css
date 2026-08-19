@@ -1,0 +1,25 @@
+body {
+background-color: rgb(100, 154, 191, 0.5);
+}
+/* SELETORES */
+/* Própria tag HTML */
+/* Id */
+/* Atributo HTML que adicona um indentificador único na tag. Esse indentificador pode ser utilizado no css para selecionarmos o elemento:
+ */
+ /* h1 p, span, a... */
+#paragrafo1 {
+    color: aliceblue;
+     font-family: "Lugrasimo", cursive;
+  font-weight: 800;
+  font-style: normal;
+}
+
+/* Classes */
+/* Atributos HTML que adicona um indentificador reutilizável na tag. Esse indenttificador pode ser utilizado no css para selecionarmos o(s) 
+elemento(s): */
+.titulo{
+color: aquamarine;
+font-family: "Lugrasimo", cursive;
+  font-weight: 800;
+  font-style: normal;
+}
