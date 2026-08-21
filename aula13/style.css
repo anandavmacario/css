@@ -17,3 +17,22 @@ h2 {
     margin: 5px;
     border: 2px solid blue;
 }
+
+/*2-INLINE: Ocupa só espaço do conteúdo*/
+.inline {
+    display: inline;
+    background-color: brown;
+    padding: 10px;
+    border: 10px solid darkred;
+}
+
+/* 3.INLINE BLOCK: Ocupa só o espaço do contúdo, permite controlar o width e height */
+.inline-block {
+    display: inline-block;
+    width: 120PX;
+    height: 60PX;
+    background-color: blueviolet;
+    padding: 10px;
+    margin: 5px;
+    border: 2px solid greenyellow;
+}
